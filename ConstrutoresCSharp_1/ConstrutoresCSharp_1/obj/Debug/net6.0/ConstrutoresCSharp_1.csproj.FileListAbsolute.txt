@@ -1,0 +1,15 @@
+C:\DEV-C#\ConstrutoresCSharp_1\ConstrutoresCSharp_1\bin\Debug\net6.0\ConstrutoresCSharp_1.exe
+C:\DEV-C#\ConstrutoresCSharp_1\ConstrutoresCSharp_1\bin\Debug\net6.0\ConstrutoresCSharp_1.deps.json
+C:\DEV-C#\ConstrutoresCSharp_1\ConstrutoresCSharp_1\bin\Debug\net6.0\ConstrutoresCSharp_1.runtimeconfig.json
+C:\DEV-C#\ConstrutoresCSharp_1\ConstrutoresCSharp_1\bin\Debug\net6.0\ConstrutoresCSharp_1.dll
+C:\DEV-C#\ConstrutoresCSharp_1\ConstrutoresCSharp_1\bin\Debug\net6.0\ConstrutoresCSharp_1.pdb
+C:\DEV-C#\ConstrutoresCSharp_1\ConstrutoresCSharp_1\obj\Debug\net6.0\ConstrutoresCSharp_1.csproj.AssemblyReference.cache
+C:\DEV-C#\ConstrutoresCSharp_1\ConstrutoresCSharp_1\obj\Debug\net6.0\ConstrutoresCSharp_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV-C#\ConstrutoresCSharp_1\ConstrutoresCSharp_1\obj\Debug\net6.0\ConstrutoresCSharp_1.AssemblyInfoInputs.cache
+C:\DEV-C#\ConstrutoresCSharp_1\ConstrutoresCSharp_1\obj\Debug\net6.0\ConstrutoresCSharp_1.AssemblyInfo.cs
+C:\DEV-C#\ConstrutoresCSharp_1\ConstrutoresCSharp_1\obj\Debug\net6.0\ConstrutoresCSharp_1.csproj.CoreCompileInputs.cache
+C:\DEV-C#\ConstrutoresCSharp_1\ConstrutoresCSharp_1\obj\Debug\net6.0\ConstrutoresCSharp_1.dll
+C:\DEV-C#\ConstrutoresCSharp_1\ConstrutoresCSharp_1\obj\Debug\net6.0\refint\ConstrutoresCSharp_1.dll
+C:\DEV-C#\ConstrutoresCSharp_1\ConstrutoresCSharp_1\obj\Debug\net6.0\ConstrutoresCSharp_1.pdb
+C:\DEV-C#\ConstrutoresCSharp_1\ConstrutoresCSharp_1\obj\Debug\net6.0\ConstrutoresCSharp_1.genruntimeconfig.cache
+C:\DEV-C#\ConstrutoresCSharp_1\ConstrutoresCSharp_1\obj\Debug\net6.0\ref\ConstrutoresCSharp_1.dll

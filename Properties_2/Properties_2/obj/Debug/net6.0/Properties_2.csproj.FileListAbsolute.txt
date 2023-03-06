@@ -1,0 +1,15 @@
+C:\DEV-C#\Properties_2\Properties_2\bin\Debug\net6.0\Properties_2.exe
+C:\DEV-C#\Properties_2\Properties_2\bin\Debug\net6.0\Properties_2.deps.json
+C:\DEV-C#\Properties_2\Properties_2\bin\Debug\net6.0\Properties_2.runtimeconfig.json
+C:\DEV-C#\Properties_2\Properties_2\bin\Debug\net6.0\Properties_2.dll
+C:\DEV-C#\Properties_2\Properties_2\bin\Debug\net6.0\Properties_2.pdb
+C:\DEV-C#\Properties_2\Properties_2\obj\Debug\net6.0\Properties_2.csproj.AssemblyReference.cache
+C:\DEV-C#\Properties_2\Properties_2\obj\Debug\net6.0\Properties_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV-C#\Properties_2\Properties_2\obj\Debug\net6.0\Properties_2.AssemblyInfoInputs.cache
+C:\DEV-C#\Properties_2\Properties_2\obj\Debug\net6.0\Properties_2.AssemblyInfo.cs
+C:\DEV-C#\Properties_2\Properties_2\obj\Debug\net6.0\Properties_2.csproj.CoreCompileInputs.cache
+C:\DEV-C#\Properties_2\Properties_2\obj\Debug\net6.0\Properties_2.dll
+C:\DEV-C#\Properties_2\Properties_2\obj\Debug\net6.0\refint\Properties_2.dll
+C:\DEV-C#\Properties_2\Properties_2\obj\Debug\net6.0\Properties_2.pdb
+C:\DEV-C#\Properties_2\Properties_2\obj\Debug\net6.0\Properties_2.genruntimeconfig.cache
+C:\DEV-C#\Properties_2\Properties_2\obj\Debug\net6.0\ref\Properties_2.dll

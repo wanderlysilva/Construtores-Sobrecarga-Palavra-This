@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConstrutoresCSharp_2/1.0.0": {
+        "runtime": {
+          "ConstrutoresCSharp_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConstrutoresCSharp_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

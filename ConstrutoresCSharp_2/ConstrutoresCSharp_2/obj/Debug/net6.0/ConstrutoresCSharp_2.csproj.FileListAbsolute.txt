@@ -1,0 +1,15 @@
+C:\DEV-C#\ConstrutoresCSharp_2\ConstrutoresCSharp_2\bin\Debug\net6.0\ConstrutoresCSharp_2.exe
+C:\DEV-C#\ConstrutoresCSharp_2\ConstrutoresCSharp_2\bin\Debug\net6.0\ConstrutoresCSharp_2.deps.json
+C:\DEV-C#\ConstrutoresCSharp_2\ConstrutoresCSharp_2\bin\Debug\net6.0\ConstrutoresCSharp_2.runtimeconfig.json
+C:\DEV-C#\ConstrutoresCSharp_2\ConstrutoresCSharp_2\bin\Debug\net6.0\ConstrutoresCSharp_2.dll
+C:\DEV-C#\ConstrutoresCSharp_2\ConstrutoresCSharp_2\bin\Debug\net6.0\ConstrutoresCSharp_2.pdb
+C:\DEV-C#\ConstrutoresCSharp_2\ConstrutoresCSharp_2\obj\Debug\net6.0\ConstrutoresCSharp_2.csproj.AssemblyReference.cache
+C:\DEV-C#\ConstrutoresCSharp_2\ConstrutoresCSharp_2\obj\Debug\net6.0\ConstrutoresCSharp_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV-C#\ConstrutoresCSharp_2\ConstrutoresCSharp_2\obj\Debug\net6.0\ConstrutoresCSharp_2.AssemblyInfoInputs.cache
+C:\DEV-C#\ConstrutoresCSharp_2\ConstrutoresCSharp_2\obj\Debug\net6.0\ConstrutoresCSharp_2.AssemblyInfo.cs
+C:\DEV-C#\ConstrutoresCSharp_2\ConstrutoresCSharp_2\obj\Debug\net6.0\ConstrutoresCSharp_2.csproj.CoreCompileInputs.cache
+C:\DEV-C#\ConstrutoresCSharp_2\ConstrutoresCSharp_2\obj\Debug\net6.0\ConstrutoresCSharp_2.dll
+C:\DEV-C#\ConstrutoresCSharp_2\ConstrutoresCSharp_2\obj\Debug\net6.0\refint\ConstrutoresCSharp_2.dll
+C:\DEV-C#\ConstrutoresCSharp_2\ConstrutoresCSharp_2\obj\Debug\net6.0\ConstrutoresCSharp_2.pdb
+C:\DEV-C#\ConstrutoresCSharp_2\ConstrutoresCSharp_2\obj\Debug\net6.0\ConstrutoresCSharp_2.genruntimeconfig.cache
+C:\DEV-C#\ConstrutoresCSharp_2\ConstrutoresCSharp_2\obj\Debug\net6.0\ref\ConstrutoresCSharp_2.dll

@@ -1,0 +1,15 @@
+C:\DEV-C#\Encapsulamento_1\Encapsulamento_1\bin\Debug\net6.0\Encapsulamento_1.exe
+C:\DEV-C#\Encapsulamento_1\Encapsulamento_1\bin\Debug\net6.0\Encapsulamento_1.deps.json
+C:\DEV-C#\Encapsulamento_1\Encapsulamento_1\bin\Debug\net6.0\Encapsulamento_1.runtimeconfig.json
+C:\DEV-C#\Encapsulamento_1\Encapsulamento_1\bin\Debug\net6.0\Encapsulamento_1.dll
+C:\DEV-C#\Encapsulamento_1\Encapsulamento_1\bin\Debug\net6.0\Encapsulamento_1.pdb
+C:\DEV-C#\Encapsulamento_1\Encapsulamento_1\obj\Debug\net6.0\Encapsulamento_1.csproj.AssemblyReference.cache
+C:\DEV-C#\Encapsulamento_1\Encapsulamento_1\obj\Debug\net6.0\Encapsulamento_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV-C#\Encapsulamento_1\Encapsulamento_1\obj\Debug\net6.0\Encapsulamento_1.AssemblyInfoInputs.cache
+C:\DEV-C#\Encapsulamento_1\Encapsulamento_1\obj\Debug\net6.0\Encapsulamento_1.AssemblyInfo.cs
+C:\DEV-C#\Encapsulamento_1\Encapsulamento_1\obj\Debug\net6.0\Encapsulamento_1.csproj.CoreCompileInputs.cache
+C:\DEV-C#\Encapsulamento_1\Encapsulamento_1\obj\Debug\net6.0\Encapsulamento_1.dll
+C:\DEV-C#\Encapsulamento_1\Encapsulamento_1\obj\Debug\net6.0\refint\Encapsulamento_1.dll
+C:\DEV-C#\Encapsulamento_1\Encapsulamento_1\obj\Debug\net6.0\Encapsulamento_1.pdb
+C:\DEV-C#\Encapsulamento_1\Encapsulamento_1\obj\Debug\net6.0\Encapsulamento_1.genruntimeconfig.cache
+C:\DEV-C#\Encapsulamento_1\Encapsulamento_1\obj\Debug\net6.0\ref\Encapsulamento_1.dll
